@@ -1,10 +1,4 @@
-# Leaflet Storymaps with Google Sheets
-Customize your Leaflet story map with linked Google Sheets template and scrolling narrative.
-Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
-
-<p align="center">
-  <img src="./leaflet-storymaps-demo.gif" title="Storymaps demo" width="100%" />
-</p>
+# 1974 S. 12th St. || Hoard Map
 
 ## Live links (replace with your own)
 - Leaflet Map https://eemdub.github.io/1974s12th-hoard/
